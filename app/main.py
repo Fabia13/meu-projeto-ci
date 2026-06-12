@@ -9,3 +9,4 @@ def conectar_api():
     if not token:
         raise ValueError("ERRO DE SEGURANCA: Token nao encontrado!")
     return "Conexão Estabelecida com Sucesso!"
+# Teste de Pull Request
