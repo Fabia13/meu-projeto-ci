@@ -1,4 +1,3 @@
-import pytest
 from app.main import somar, conectar_api
 
 
